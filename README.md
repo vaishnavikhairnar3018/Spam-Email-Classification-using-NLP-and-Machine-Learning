@@ -61,7 +61,7 @@ Congratulations! You have won a $1000 gift card. Claim now.
 ```
 Output:
 ```
-Spam
+⚠️🚨 This is A Spam Email
 ```
 
 ## Future Enhancements
